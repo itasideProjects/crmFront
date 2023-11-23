@@ -1,4 +1,4 @@
-# Getting Started with Front end CRM VITE
+# CRM VITE FRONT (ITA Side PS)
 
 This project has been created with the purpose of providing the community a Frontend CRM based on React and managing the state through the redux toolkit.
 
